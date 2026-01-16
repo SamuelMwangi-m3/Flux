@@ -297,9 +297,9 @@ This project is licensed  under the MIT License - see the [LICENSE](LICENSE) fil
 
 ## 📧 Contact
 
-**Built by:** [Your Name]  
-**Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
-**Email:** your.email@example.com
+**Built by:** Egh Samuel Mwangi
+**Twitter:** [@](https://twitter.com/yourhandle)  
+**Email:** mwangisamuel.dev@gmail.com
 
 ---
 
